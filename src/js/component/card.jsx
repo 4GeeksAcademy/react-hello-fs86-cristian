@@ -8,7 +8,7 @@ const Card = () => {
             id: 1,
             img: "https://tse1.mm.bing.net/th?id=OIP.BdNASVOPaOnq7hemkPEbbQAAAA&pid=Api&P=0&h=180",
             title: "Luigi",
-            text: "Bienevenido amigo.",
+            text: "Bienvenido amigo.",
         },
         {
             id: 2,
