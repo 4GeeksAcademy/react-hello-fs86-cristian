@@ -1,0 +1,13 @@
+.card{
+    width: 18rem;
+}
+.card-body{
+    text-align: center;
+
+}
+.card__img {
+    max-width: 500px;
+    max-height: 325px;
+    object-fit: cover; 
+    display: block; 
+}
